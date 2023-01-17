@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive Media | Chris Berno</title>
+    <link>https://berno.ml/tag/interactive-media/</link>
+      <atom:link href="https://berno.ml/tag/interactive-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interactive Media</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://berno.ml/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Interactive Media</title>
+      <link>https://berno.ml/tag/interactive-media/</link>
+    </image>
+    
+    <item>
+      <title>Second Screen Strategies</title>
+      <link>https://berno.ml/project/second-screen-strategies/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/project/second-screen-strategies/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a hard sell but here&amp;rsquo;s the pitch anyway &amp;hellip; &amp;ldquo;We want you to invest in an application that will divert audience attention away from the big screen DURING the show you just spend a fortune to produce, market and distribute.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

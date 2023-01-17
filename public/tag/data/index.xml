@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data | Chris Berno</title>
+    <link>https://berno.ml/tag/data/</link>
+      <atom:link href="https://berno.ml/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Aug 2021 13:59:00 +0000</lastBuildDate>
+    <image>
+      <url>https://berno.ml/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Data</title>
+      <link>https://berno.ml/tag/data/</link>
+    </image>
+    
+    <item>
+      <title>headless.ml</title>
+      <link>https://berno.ml/project/headless.ml/</link>
+      <pubDate>Sat, 28 Aug 2021 13:59:00 +0000</pubDate>
+      <guid>https://berno.ml/project/headless.ml/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;All of a sudden we, as internet users, produce and simultaneously have more data available to us than ever before. Raw, unstructured data dosen’t have much utility and as a result offers little value, however, data that’s structured and accessible can become an asset that solves problems, creates opportunity and provides real-world value.&lt;/p&gt;
+&lt;p&gt;As modern web applications become more and more data driven, they are  increasingly consuming data from multiple sources. Headless seeks to help people without software engineering and data science training to become one of those sources and realize new, passive revenue streams that can add high margin revenue to the balance sheet faster and easier then ever before.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;The Headless API, powered by Directus, as an easy to use data structuring application for accessing, managing and visualizing all kinds of data. In addition to structuring that raw data, we seek to deliver a secure and scaleable framework for sharing and presenting it in a simple, orderly, and intuitive way that becomes useable for your own business and for other people and businesses willing to pay for it. Most importantly we’re leveraging core Directus technology that allows the owner of the data, you,  to maintain total control and authority over it.&lt;/p&gt;
+&lt;p&gt;By structuring and making data available for consumption by third parties,  it’s transformed into an asset that can be monitized in other words, your data becomes a product. With that outcome in mind, Headless is bing developed with ways and means to monetize your newly structured data by making it available to paying clients and processing payments based on usage, all done autonomously and with the intent of creating new, virtually passive income streams for small business owernes.&lt;/p&gt;
+&lt;p&gt;👉 Visit the project homepage: &lt;a href=&#34;https://headless.ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;headless.ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 Visit the project api: &lt;a href=&#34;https://api.headless.ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;api.headless.ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 Visit the &lt;a href=&#34;https://github.com/chrisberno/headless&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repo:&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

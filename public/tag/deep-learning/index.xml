@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Chris Berno</title>
+    <link>https://berno.ml/tag/deep-learning/</link>
+      <atom:link href="https://berno.ml/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Aug 2021 13:59:00 +0000</lastBuildDate>
+    <image>
+      <url>https://berno.ml/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://berno.ml/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>headless.ml</title>
+      <link>https://berno.ml/project/headless.ml/</link>
+      <pubDate>Sat, 28 Aug 2021 13:59:00 +0000</pubDate>
+      <guid>https://berno.ml/project/headless.ml/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;All of a sudden we, as internet users, produce and simultaneously have more data available to us than ever before. Raw, unstructured data dosen’t have much utility and as a result offers little value, however, data that’s structured and accessible can become an asset that solves problems, creates opportunity and provides real-world value.&lt;/p&gt;
+&lt;p&gt;As modern web applications become more and more data driven, they are  increasingly consuming data from multiple sources. Headless seeks to help people without software engineering and data science training to become one of those sources and realize new, passive revenue streams that can add high margin revenue to the balance sheet faster and easier then ever before.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;The Headless API, powered by Directus, as an easy to use data structuring application for accessing, managing and visualizing all kinds of data. In addition to structuring that raw data, we seek to deliver a secure and scaleable framework for sharing and presenting it in a simple, orderly, and intuitive way that becomes useable for your own business and for other people and businesses willing to pay for it. Most importantly we’re leveraging core Directus technology that allows the owner of the data, you,  to maintain total control and authority over it.&lt;/p&gt;
+&lt;p&gt;By structuring and making data available for consumption by third parties,  it’s transformed into an asset that can be monitized in other words, your data becomes a product. With that outcome in mind, Headless is bing developed with ways and means to monetize your newly structured data by making it available to paying clients and processing payments based on usage, all done autonomously and with the intent of creating new, virtually passive income streams for small business owernes.&lt;/p&gt;
+&lt;p&gt;👉 Visit the project homepage: &lt;a href=&#34;https://headless.ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;headless.ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 Visit the project api: &lt;a href=&#34;https://api.headless.ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;api.headless.ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 Visit the &lt;a href=&#34;https://github.com/chrisberno/headless&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repo:&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>📖 RTFM</title>
+      <link>https://berno.ml/project/example/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

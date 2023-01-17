@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Berno</title>
+    <link>https://berno.ml/</link>
+      <atom:link href="https://berno.ml/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Berno</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://berno.ml/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Chris Berno</title>
+      <link>https://berno.ml/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://berno.ml/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://berno.ml/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>headless.ml</title>
+      <link>https://berno.ml/project/headless.ml/</link>
+      <pubDate>Sat, 28 Aug 2021 13:59:00 +0000</pubDate>
+      <guid>https://berno.ml/project/headless.ml/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;All of a sudden we, as internet users, produce and simultaneously have more data available to us than ever before. Raw, unstructured data dosen’t have much utility and as a result offers little value, however, data that’s structured and accessible can become an asset that solves problems, creates opportunity and provides real-world value.&lt;/p&gt;
+&lt;p&gt;As modern web applications become more and more data driven, they are  increasingly consuming data from multiple sources. Headless seeks to help people without software engineering and data science training to become one of those sources and realize new, passive revenue streams that can add high margin revenue to the balance sheet faster and easier then ever before.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;The Headless API, powered by Directus, as an easy to use data structuring application for accessing, managing and visualizing all kinds of data. In addition to structuring that raw data, we seek to deliver a secure and scaleable framework for sharing and presenting it in a simple, orderly, and intuitive way that becomes useable for your own business and for other people and businesses willing to pay for it. Most importantly we’re leveraging core Directus technology that allows the owner of the data, you,  to maintain total control and authority over it.&lt;/p&gt;
+&lt;p&gt;By structuring and making data available for consumption by third parties,  it’s transformed into an asset that can be monitized in other words, your data becomes a product. With that outcome in mind, Headless is bing developed with ways and means to monetize your newly structured data by making it available to paying clients and processing payments based on usage, all done autonomously and with the intent of creating new, virtually passive income streams for small business owernes.&lt;/p&gt;
+&lt;p&gt;👉 Visit the project homepage: &lt;a href=&#34;https://headless.ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;headless.ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 Visit the project api: &lt;a href=&#34;https://api.headless.ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;api.headless.ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 Visit the &lt;a href=&#34;https://github.com/chrisberno/headless&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repo:&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>📖 RTFM</title>
+      <link>https://berno.ml/project/example/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Platforms</title>
+      <link>https://berno.ml/project/digital-platforms/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/project/digital-platforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain Domain Names (Pt. ☝️)</title>
+      <link>https://berno.ml/post/internet-of-value-blockchain-domains-pt1/</link>
+      <pubDate>Tue, 18 Aug 2020 19:28:14 +0000</pubDate>
+      <guid>https://berno.ml/post/internet-of-value-blockchain-domains-pt1/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;📺&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Prefer&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;watch&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;presentation&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;this&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;talk&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.cinnamon.video/watch?v=389171153421206953&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click To Watch On Cinnamon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction-to-blockchain-based-crypto-domain-names&#34;&gt;Introduction To Blockchain Based Crypto Domain Names&lt;/h2&gt;
+&lt;p&gt;Some argue that despite all of it’s positive benefits, the internet has evolved into an exclusive, corporate-controlled ecosystem where to much power, money and control is centralized with giants like Facebook, Google and Amazon.  Distributed computing technology like blockchains have been identified as a solution to this centralization and a way to reclaim our digital identities and digital assests.  Whether or not you agree that argument or share those concerns, forward thinking entrepreneurs  should be aware of a new breed of “Web 3.0” blockchain startups working to help distribute ownership and control of digital assets. Regardless of what’s feuling blockchains growth, it’s evolving fast and creating exciting new opportunities for those willing to engage. In this executive summary we’ll look at one area of blockchain growth, Crytpo Domains.  Blockchain Registrar companies building tools that help developers get decentralized crypto domains and decentralized applications (DAPPs) onto the internet without any involvement from authorities like ICANN or Verisign that currently have control over registering .com, .net, .org, etc. domains. In addition to decentralizing domain name services (DNS) the hosting industry is being reimagined without the need for traditional web hosting providers like Godaddy, Hostgator, AWS and the like and by moving DNS and web hosting away from centralized servers and to decentralized peer to peer, blockchain networks,  fundamentally changing how information is created, stored and transmitted on the web.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.giphy.com/media/ZFW0IJd7ch1iopzqOn/giphy.gif&#34; alt=&#34;Chris Berno Internet of Value&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The challenge isn’t in the building of decentralized software or platforms, no, DAPP developers and blockchain startups have already proven it’s possible and new tools come online regularily that make it easier to deploy decentralized applications.  But as I’ve learned the way on past projects, just because you built it, doesn’t necessarily mean they’re going to come. No, the real challenge lies in creating meaningful options, experiences, and tools that solve realworld problems for users or create exciting new experiences for fans and followers that are financially sustainable, usable and compelling enough to drive enterprise and ultimately mass adoption. So, it doesn’t matter if a more privacy-preserving, user-controlled version of Facebook or twitter is created or not as people rarely adopt new technology for ideological reasons like decentralization or privacy alone. Rather, history shows us that technology adoption is based on utility, convenience, price, usability, the problems it solves and probably most importantly, whether or not their friends and family are using it. Another thing to consider in the adoption of new technology is any kind of competitive advantage that new technology creates for users whether that’s individuals or businesses. So let’s apply this all to the interesting new world of blockchain based crypto-domains.&lt;/p&gt;
+&lt;p&gt;When most people think of blockchain, they think of cryptocurrencies like bitcoin or ethereum. In this executive summary, we’re going to look at a different usecase for blockchain technology outside of cryptocurrency, specifically, the emerging world of Blockchain or Crypto Domains. As mentioned in the intro, many believe that the webhosting and domain registration industry is primed for massive disruption and that new decentralized apps (DAPPs) are primed and ready to provide alternatives, or even outright replace the current domain name service (DNS) and webhosting providers. The real question isn’t if it’s possible, but if there’s a viable market for decentralized DNS and web hosting applications? Most people I know don’t understand the basic DNS functions available to them for managing their domain let alone understand the value that crypto domains create.  Many DAPP CEOs think the time is right however, they have convinced investors, assembled teams of smart people and are building the alternative routes that will become the decentralized web.&lt;/p&gt;
+&lt;h2 id=&#34;dns-solved-a-massive-problem--fostered-adoption-of-the-internet-but-&#34;&gt;DNS Solved A Massive Problem &amp;amp; Fostered Adoption of The Internet. But &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Domain Name Services (DNS) are an integral part of the web and arguably the technology that made mass adoption of the internet as we know it today even  possible. A commonly used analogy is that DNS is the equivalent of the phonebook for the internet or similar to the caller ID feature that announces who’s calling by name instead of just displaying a telephone number. A domain name creates a human-readable address for a website that helps people to quickly identify and recall web addresses that otherwise would have been a string of random numbers in the form of an IP address. For example, my personal website &lt;a href=&#34;https://chrisberno.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chrisberno.net&lt;/a&gt; translates to an ip addresses of &lt;a href=&#34;https://chrisberno.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;151.101.1.195&lt;/a&gt;. Both the domain name and it’s corresponding IP address work just fine with or without the other,  but it’s a lot easier to give someone my domain name chrisberno.net then the IP Address and expect them to recall it at some point in the future. It’s because of this human readability utility that the domain industry has enjoyed significant year-over-year growth ever since the National Science Foundation privatized its domain name registry back in 1993. Back then, new domain names were being registered at a rate of ~ 400 per month, and in August of 1993, there were less than 4,500 domain names registered in total worldwide. Fast forward some 27 years to 2020 and the managed domain services industry has evolved into big business. Some say way to big, too centralized and far to controlling.&lt;/p&gt;
+&lt;p&gt;On 29 May 2020, Verisign, the registry behind all .com and .net domains, released its quarterly Domain Name Industry Brief detailing the number of reported domain names registered across all the Top Level Domains (TLDs). The report indicated that the first quarter of 2020 closed with a total of 366.8 million domain name registrations under management worldwide and growing at a rate of over 4M per month across all TLD types (i.e. .com, .net, .org, .us, etc).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.postimg.cc/V6N6yDBL/2020-domain-name-stats.png&#34; alt=&#34;Chris Berno Internet of Value&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;so-whats-the-big-problem-with-dns&#34;&gt;So What’s The Big Problem With DNS?&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.postimg.cc/wj2mM4fp/the-problem-with-DNS.png&#34; alt=&#34;Chris Berno Internet of Value&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Despite the obvious utility and popularity of DNS and the services provided by Verisign and the domain registrars,  there’s a growing movement suggesting that It’s time to evolve DNS into a Web 3.0 model. Specifically this new model would re-define what ownership means on the web and shift it’s consolidated components like DNS, file storage and file sharing into the hands of individual people, not big corporations or governments. One core argument is that there’s no such thing as domain ownership and that by registering a domain with a registrar like GoDaddy or NameCheap, that your only paying to rent their domains not actually owning them outright. If you need proof, don’t pay your annual domain renewal fee and you’ll see, usually within 30 days,  that you really don’t own anything all and that your domain name is easily sequestered and resold onto a secondary market. Another popular argument for DNS reform is focused on censorship. Although most of us don’t read all of the fine print each time we register a domain name or open a webhosting account but, there are very real terms and conditions that govern that transaction and that can cause your domain name as well of your server-side assets like photos, content, code, emails, customer lists, etc. to be taken offline, confiscated and resold on a secondary market or even destroyed.  In a nutshell,  the censorship argument raises concerns about a small number of over empowered corporations having to much control over the content we can create and consume. Ultimately, critics fear this control leads to problems ranging from censorship of free speech to more subtle discrimination in the content users see based on paid advertising models and unaudited bot algorithms that are impossible to oversee or hold accountable but can and do control what gets seen on a platform and what does not.&lt;/p&gt;
+&lt;p&gt;If lack of true ownership of your domain name, lack of privacy and being subject to censorship isn’t enough to drive adoption of blockchain-based domain names and decentralized website hosting, perhaps the massive fee increases that have been approved by ICANN will do it.  Earlier this year, ICANN announced that Verisign can start increasing .com wholesale domain pricing 7% every year for four years, inturn expanding its revenue by at least 70% over ten years (an additional $800m) in exchange for giving ICANN $20m. That means that renewing your domain name after your low low introductory rate is about to get A LOT more expensive. Check out the spreadsheet below that shows expected wholesale domain registration price increases through 2029.&lt;/p&gt;
+&lt;h3 id=&#34;from-dns-to-bns---the-rise-of-blockchain-based-domain-name-services-bns--and-crypto-domains&#34;&gt;From DNS To BNS - The Rise Of Blockchain-Based Domain Name Services (BNS)  and Crypto Domains&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.postimg.cc/WpZqg1WS/what-are-crypto-domains.png&#34; alt=&#34;Chris Berno Internet of Value&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;What if there were options for managing domain names and web-hosting that took advantage of blockchain technology and solved the problems of ownership, privacy, censorship and price gauging we identified in the previous section? What if in addition to solving the biggest problems associated with the legacy DNS and webhosting systems we could add some exciting new value, features and functionality to our domain names so they could do things that current domains can’t, making them a lot more interactive and powerful tools for businesses. Crypto domains may be in a position to take domain names and the domain name industry to a completely new level and there are exciting new blockchain startups actively working on getting crypto domains into our hands much sooner than you may expect - like now!  In much the same way legacy DNS technologies of the 1990’s made the web more user friendly for us humans and was a catalyst for mass adoption, today’s blockchain infrastructure is poised for the same kind of upgrade in usefulness (utility) and user-friendliness (adoption). The questions is what are these cool new features of crypto domains and are do they matter enough to drive adoption of crypto-domains?&lt;/p&gt;
+&lt;p&gt;Much like how legacy DNS tied human readable domains to numeric ip addresses, blockchain projects create hexadecimal based address systems that identify public keys of cryptocurrency wallets and file systems. These hexadecimal addresses are composed of 16 random characters and are difficult for humans to read and recall. Thus, the need to build a better system for communicating blockchain address information has led to the creation of blockchain-based DNS projects that identify an individual user’s crypto wallet and blockchain website domain in the same way that  chrisberno.net makes it easier to find https://151.101.1.195/. There are a few startups trying to solve the problems with legacy DNS and decentralize the internet’s domain-name infrastructure such as &lt;a href=&#34;https://ens.domains/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethereum Name Service (ENS)&lt;/a&gt;, &lt;a href=&#34;https://unstoppabledomains.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unstoppable&lt;/a&gt; and &lt;a href=&#34;https://handshake.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Handshake&lt;/a&gt; to name a few. Blockchain domains serve the same function that our good old fashion ICANN domains do in that they provide human-readable addresses that make it easier for us (humans) to use, but there are some key differences made possible by the blockchain that expand the functions and roll that crypto domains name can play.&lt;/p&gt;
+&lt;p&gt;ENS and Unstoppable Domains are two examples of crypto domain regsitrars and function in the same way Verisign is the official registrar of the .com TLD. Both ENS and Unstoppable are building blockchain-based domain registry services that make it easy to register a domain name on the blockchain. Unstoppable offers .crypto and .zil and ENS offers .eth. Just like with legacy DNS you can go to unstoppabledomains.com and search for the perfect blockchain domain name. The difference with a crypto domain registrar is that instead of .com or .net, you’re blockchain domain will end in .crypto, .zil, .eth or another one of the growing crypto TLDs coming available. Crypto domains are registered into the blockchain as a smart contract rather than publicly with registrars (like GoDaddy, etc). And unlike the legacy domain registrars who are contractually obligated by ICANN to report domain registration information annually for all domains in their portfolios, blockchain registrars have no such reporting requirements and you can control every aspect of that domain including what information is shared publicly about it.  Sure, you can pay extra for privacy services with the legacy registrars, but ultimately they’re required to track and report ownership information to a central authority like ICANN and in some cases governments as well. In addition domain registration and similar to the legacy registrars that allow you to point your domain name to a http or https website with custom dns servers, the crypto domain registrars allow you to point your crypto domain to decentralized, peer to peer file storage and hosting networks, creating a global network of censorship resistant websites. Blockchain Domains + Decentralized storage = total freedom censorship and control. Next, in terms of domain name ownership, traditional domain assets are stored on your behalf by custodians like Godaddy and Google Domains, but you don’t really own anything at all but the right to use it. This is another dimension in which Blockchain domain are different and potentially much more valuable because the keys to your crypto domain are stored in your cryptocurrency wallet and controlled by you so no external third party can take or control it, they can’t be blocked or censored and since blockchain domains are not part of the ICANN system and default to “alternate routes” and are not recognized by ICANN or any of the DNS registrars and are thus decentralized and uncensorable. Crypto Domains are stored by the owner on their wallet and controlled with a private key which provides true ownership and makes the crypto-domain a bonafide digital asset and long as you hold the private key for that domain you retain full control and ownership. Blockchain domains from extend the functionality of domain names as we know them making them an easy way to transfer funds by connecting them with cryptocurrency wallets. Today the hash address associated with crypto wallets are cumbersome and not easy to use and to combat that crypto domains intended to make crypto addresses similar to email addresses making it much easier to transfer cryptocurrencies between wallets and simplify crypto payments - by allowing for human-readable payment addresses. The payer can just type your crypto domain into a wallet and hit send. Recently  Coinbase wallet announced integrattion with blockchain domain names from Unstoppable Domains. This means that inside your coinbase wallet you can store your domain assets.&lt;/p&gt;
+&lt;p&gt;Note: In my next  Fourth Industrial Revolution post, I will walk through the process of registering my first crypto domain chrisberno.crypto and show you how that blockchain domain name can function Just like a legacy domain name and service up web content and also take advantage of some advanced features of an unstoppable crypto doamain and act as a wallet address and make it incredibly easy to send me a tip in the crypto-currency of your choice (should you be so inclined 😁). An instant funds transfer is something that a legacy web 2.0 domain name simply can’t do.&lt;/p&gt;
+&lt;p&gt;Another feature that Unstoppable Domains has introduced that expands the functionality of domain names as we know them is decentralized chat or DCHAT.  With DCHAT, blockchain-based chat / messaging in all data is stored on a P2P storage network as opposed to a centralized server like you are accustomed to with Facebook messenger or Google Hangouts and only the rightful domain owner can access and/or delete chats. All chats are encrypted by default and can only be unlocked by the owner with the private key. The chat functionality is linked to the crypto domain name and is totally user-controlled chat. No one can read the messages and the corresponding data unless they have the keys to do so. Ever notice how Pizza ads show up in your browser if you mention to a friend you’re in the mood for a pizza?? It happens because bots deployed by the platform you’re using are assigned to “read” your message and find ways to grow revenue from your activity.&lt;/p&gt;
+&lt;p&gt;So there you have it. Crypto domains solve some of the biggest problems associated with DNS related services today and provide full ownership - the crypto-domain becomes a true digital-asset from which the owner to derive value. You are the sole owner of it and have complete control over it. and will expand the functionality of domain names to accomplish functions far beyond naming conventions and actually make domain names interactive. These features make crypto-domains very attractive to privacy advocates but are they enough to spark adoption on a larger scale? What about .COM price increases set to go up over 70% vs. once and done payment with blockchain domains. Today most blockchain domains require specialized browsers or browser plugins to resolve properly.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.postimg.cc/fTj3qgh9/blockchain-domains-opportunity.png&#34; alt=&#34;Chris Berno deploying token economies&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;With blockchain domains it’s not so much about replacing DNS, it’s about providing an alternative with features and benefits that will resonate with an enterprise customer base, not just tech hobbyists or privacy advocates.  “Although privacy, censorship and price protection are important to me personally, they are not what’s going to lead the adoption of decentralized web tools for small and medium-sized businesses. Rather we will offer blockchain professional services to our existing customer base that focus on features with real utility like fully decentralized chat and exciting new ways for our clients to start accepting crypto payments with .eth or .crytpo domains. These Dapps and others like them still in development are what will resonate as competitive advantages for small business and enterprise adoption over time. Incorporating these new decentralized workflows is how we’ll create and add value in the market.” Think back to the 2010 time frame, the terms mobile and responsive starting showing up in developer forums and by 2015 if you’re weren’t fully optimized for the mobile web you might as well not be online. Today, there’s no real delineation between traditional and mobile web - everything is just optimized for the device type being used. History repeats and the merging of the mobile web is a possible model for how centralized and decentralized web activity may evolve in the not so distant future. One thing is for sure though, early adopters of decentralized technologies like this will be rewarded for contributing and participating on the leading edge of this exciting new  Web 3.0 world we’re all about to enter together.&lt;/p&gt;
+&lt;h3 id=&#34;additional-resources&#34;&gt;Additional Resources&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.internetx.com/fileadmin/files/internetx/pdf/GlobalDomainReport.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internext Global Domain Repor&lt;/a&gt;
+&lt;a href=&#34;https://www.technologyreview.com/2019/06/04/239039/the-ambitious-plan-to-make-the-internets-phone-book-more-trustworthy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT - Ambitious Plan To Make The Internets Phone Book More Trustworthy&lt;/a&gt;
+&lt;a href=&#34;https://dci.mit.edu/decentralizedweb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT - Decentralized Web Whitepaper&lt;/a&gt;
+&lt;a href=&#34;https://www.techradar.com/news/behind-the-internet-the-history-of-domain-names&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tech Radar - The History Of Domain Names&lt;/a&gt;
+&lt;a href=&#34;https://www.coywolf.news/webmaster/icann-allows-verisign-to-start-increasing-com-prices-indefinitely/#:~:text=ICANN%20announced%20that%20Verisign%20can,for%20giving%20ICANN%20%2420m.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CoyWolf - Domain Name Price Increases Approved&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Developing Token Economies (Pt ☝️)</title>
+      <link>https://berno.ml/post/internet-of-value-developing-token-economies-pt1/</link>
+      <pubDate>Thu, 04 Jun 2020 20:16:14 +0000</pubDate>
+      <guid>https://berno.ml/post/internet-of-value-developing-token-economies-pt1/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;📺&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Prefer&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;watch&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;presentation&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;this&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;talk&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.cinnamon.video/watch?v=335968509022438452&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click To Watch On Cinnamon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-fourth-industrial-revolution--the-new-token-economies&#34;&gt;The Fourth Industrial Revolution &amp;amp; The New Token Economies&lt;/h2&gt;
+&lt;p&gt;Welcome to the Internet of Value (I.O.V.)  … I’m your host Chris Berno and in this Executive Summary we’re looking at Tokens, Tokenization and Token Economies, why you should have a working knowledge of them and ways they’re already being deployed today as well as future implications of them for your business and your own personal wealth.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.giphy.com/media/fAPw0A92EVau4AFNB9/giphy.gif&#34; alt=&#34;Chris Berno Internet of Value&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;For centuries we (humans) have been tokenizing objects as a means of exchanging value. From cowry shells and wampums in the ancient trade networks of Africa and Asia to the Chuck E. Cheese tokens you may have coveted as a kid or the rewards points you may have redeemed for an upgrade on a recent business trip. Generally, tokens have no or very little intrinsic value in and of themselves but represent the holder’s ability to exchange his or her tokens for something of massive value to the holder - well perceived massive value at least - extended play at the arcade or some extra legroom and free drinks on your last flight. Some examples of value could be cash money / fiat currency, access to products or services, or certain privileges (i.e. upgrade fo first-class or VIP early access to a Hollywood blockbuster) that otherwise would not be available.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-token-and-tokenization&#34;&gt;What Is A Token And Tokenization&lt;/h3&gt;
+&lt;p&gt;A token is an object or symbol that can be exchanged for something material or for services or privileges between two or more parties. Generally, tokens are created by issuers or businesses to improve customer experience, reduce workflow friction and/or increase customer loyalty. Outside of the two parties, the tokens are usually worthless. One example from the 20th century that (depending on your age) you may be able to relate to is the Chuck E. Cheese play tokens which first surfaced in the 1980s allowed players to convert fiat money into these tokens that could be used to play arcade games and purchase toys from the gift shop. Chuck E. Cheese has since retired to a token system and replaced it with a stored value player card but the token model was and remains a great example of token economics.&lt;/p&gt;
+&lt;p&gt;Fast forward into the 21st century and tokens are evolving with times and available technology. In the book, The Real Business of Blockchain, authors David Furlonger and Christophe Uzureau suggest that there are 4 categories of Tokens …&lt;/p&gt;
+&lt;h3 id=&#34;four-token-types&#34;&gt;Four Token Types&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1- Fiat Tokens -&lt;/strong&gt; represent government-issued currencies such as the UD Dollar or the Euro and are traded in physical form aka money as we know it today - so, in this case good old fashion cash money is considered a token. Fiat currencies work well in the physical world as we use it to procure goods and services (i.e. 1 Big Mack Value Meal costs $8.95), but dosn’t work so well in digital or online transactions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2- Process Tokens -&lt;/strong&gt; facilitate the use of fiat tokens in digital environments. Facebook authentication tokens for example are a very simple and basic example of how using process tokens can help you gain access to and facilitate transactions in digital environments. For example logging into your Netflix account using your Facebook or twitter credentials. This is a an example of a process token and you’re probably starting to get more comfortable using it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3- Complementary Tokens -&lt;/strong&gt; enable exchange in closed environments. A good example here are the loyalty programs that have become so common in the travel industry (frequent flyer miles, hotel rewards, etc). These tokens maximize value for the issuer by encouraging specific behaviors in the token holders and/or customers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4- Cryptocurrencies -&lt;/strong&gt; are digitally native currencies that can replace fiat and process tokens and can be used to create new kinds of assets. They are further divided into Utility, Security and Stability categories which we will examine in another section of the Internet of Value series. While cryptocurrencies haven’t transformed money in the real-world the way some cryptocurrency enthusiasts predicted they might, there are nonetheless some indications that some cryptocurrencies are gaining at least some awareness and recognition in the business world.&lt;/p&gt;
+&lt;h3 id=&#34;token-business-models&#34;&gt;Token Business Models&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.giphy.com/media/daDHJ9E7Yw4ehZR6IH/giphy.gif&#34; alt=&#34;Chris Berno deploying token economies&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Tokenization, the creation, and representation of value or assets is not a new idea. Fiat Tokens (aka money) have been used by governments and issued by central banks for thousands of years. In addition to Fiat tokens, we saw the emergence of complementary tokens with things like American Express Traveler’s checks, business loyalty programs (i.e. Southwest Airlines Rapid Rewards Program), and many other member-only type tokens that represented value to specific groups (i.e. American Express Customers or Chuck E. Cheese guests for example). More recently we’ve seen the growth of Process tokens which help us control access to information and programs on our phones via applications and starting in 2009 with the introduction of bitcoin the very fist cryptocurrency tokens developed to work like traditional fiat tokens but wholly developed for the digital world. So what’s the rub here? Why am I writing this executive summary and where’s the opportunity you ask? &amp;hellip; Blockchain technology amplifies the useability and adaptability of tokens turning them into flexible and dynamic tools for creating and exchanging value in peer to peer networks. On blockchains, different tokens can be used for different purposes and well designed, implemented and managed token systems can provide massive benefits and ROI to both the issuer of the tokens as well as the token holders in the system and drive exciting new forms of business development.&lt;/p&gt;
+&lt;p&gt;For example, Cryptocurrency tokens will be used to replace fiat currencies migrating us (humans) away from legacy cash money and ushering in a new world of decentralized finance featuring digital dollars and eventually eliminating the need for central banks (but that’s going to die-hard so don’t hold your breath). Utility and Security tokens will facilitate new models crowdfunding, financing, and Investing. Expanding far beyond just finance-related business models and use cases, tokenization will help us (humans) take back ownership of our personal data and control how and when money is made from it. Digital tokens will also create new markets and opportunities to grow wealth across social-economic sectors including some historically “frowned upon” businesses in the adult entertainment industry.&lt;/p&gt;
+&lt;p&gt;And we’re just in the very beginning stages of business blockchain application development. What token strategies does your business currently deploy and how can they be enhanced by blockchain technology and begging the digital transformation process positioning you and your business for improved efficiency, customer experiences, and growth opportunities using new distributed technology and models. Maybe you can build tokens that let customers control how their data is used by your company and be able to prove compliance on-demand with little effort - if so perhaps in exchange for full control, your customers would be more willing to participate in important surveys or other data-related activities that give your business a leg up on the competition. Or maybe your current rewards program could be expanded and extended to vetted members of another company elite customer level which would create new revenue for both firms and create new opportunities, products, experiences, and rewards for your most valued customers. For example Singapore Airlines KrissFlyer. Standard Operating procedures like hiring, and recruitment …&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.giphy.com/media/ZbfKGgxdgVNwpsbM08/giphy.gif&#34; alt=&#34;Chris Berno on business development with tokens&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;If you’re goal is to gain wealth with digital assest (namely crypto currencies) … you’re timing is pretty excellent&amp;hellip; In much the same way the internet changed how we obtain and consume everything from clothes and travel to food and entertainment, Blockchain and the corresponding token economies it fosters will change things all over again, only this time much faster with less warning and opportunity to drag your feet. For Entrepreneurs and both business and civic leaders, the time to be considering, experimenting, developing, and prototyping token applications on the blockchain is now. If you’d like to book some time with me one on one to learn more brainstorm ideas and start putting plans in place I’m available for 1-hour blocks here on a sliding fee scale with no obligation what so ever. I’d look forward to discussing your digital transformation ideas and requirements.   &lt;a href=&#34;https://www.chirsberno.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Berno&lt;/a&gt; // New York, USA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Asset Valuations (Pt ☝️)</title>
+      <link>https://berno.ml/post/internet-of-value-digital-asset-valuations-pt1/</link>
+      <pubDate>Wed, 27 May 2020 20:01:00 +0000</pubDate>
+      <guid>https://berno.ml/post/internet-of-value-digital-asset-valuations-pt1/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;📺&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Prefer&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;watch&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;presentation&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;this&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;talk&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.cinnamon.video/watch?v=328406653982476030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click To Watch On Cinnamon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-fourth-industrial-revolution--the-internet-of-value&#34;&gt;The Fourth Industrial Revolution &amp;amp; The Internet of Value&lt;/h2&gt;
+&lt;p&gt;Welcome to the Internet of Value (I.O.V.)  … I’m your host Chris Berno and in this Executive Summary we’re looking at Digital Assets, why you should have a working knowledge of them and ways they’re already being deployed today as well as future implications of them for your business and your own personal wealth.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://media.giphy.com/media/VhLDpFBDTd1GUF1Bom/giphy.gif&#34; alt=&#34;Chris Berno Internet of Value&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Long before cash money, coins, creditcards and crypto currencies people bartered. Bartering is the exchange of goods or services for other goods or services. For example, someone might swap a bag of rice for a bag of beans and call it an even exchange. But …. there were limitations to this form of commerce … imagine for example all you had to barter with were chickens and no-one really needed chickens that day .. good luck getting that fresh produce or milk you need for your family. There were also physical limitations, for example, hauling around a bunch of chickens, or potatoes, or whatever assets you were barding with wasn’t really all that convenient … fast forward 2,000 years or so from our ancestor’s seemingly simple bartering of assets to today&amp;rsquo;s complex financial operations, money or currency was introduced and countries began minting their own series of coins with specific values that were tied to metals and since coins were given a designated value, it became easier to compare the cost of items people wanted and made it much easier to exchange value and conduct business. “Money”, over time, became commonly accepted by people as an exchange for goods, services, or resources. Every country established it’s own exchange system and currencies and in doin so, solved a lot of the problems our ancestors faced exchanging value. The history of money as it evolved from precious-metal-based coins to paper currency to FIAT or government back promissory paper money that we know today is fascinating, but the focus of this executive brief is on the evolution of assets not necessarily money although you can see how the two are closely related …&lt;/p&gt;
+&lt;p&gt;Today, we live in a time when most assets are digitized in some way shape, or form and like it or not, we’re moving towards the digitization of anything we deem valuable. Most of us (humans) interact with digital assets thousands, if not tens of thousands of times every day. As a matter of fact,  you’re interacting with countless digital assets right now by watching with this video from the research I put into developing this talk to the streaming media and browser applications that make it work on your device.&lt;/p&gt;
+&lt;p&gt;First lets define an assets in general &amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;physical-world-assets-vs-digital-assets&#34;&gt;Physical World Assets vs. Digital Assets&lt;/h3&gt;
+&lt;p&gt;Some ways the government can improve citizens&amp;rsquo; online experience &amp;hellip;
+Think of a physical world asset you possess …
+Now think about what makes it an asset?  Can you resell it? Leave to your kids in your will? Does it add to your net worth? Or maybe it’s got emotional value and deemed priceless to you and your family. No matter what you picked … it probably revolves around value. To better organize and manage assets, classes and categories have evolved based on shared attributes like how the assets behave in the marketplace, the purchasing process, and how the government regulates them.  Currently, financial professionals generally agree that there are four broad classes of assets: Equities (stocks), Fixed-income and debt (bonds), Money market and cash equivalents, Real estate and tangible assets &amp;lt;= don’t get hung up on the categories themselves - for the purpose of this summary what matters is that there is value in classification of our assets.&lt;/p&gt;
+&lt;p&gt;So what exactly is a digital asset and more importantly, why should you care?&lt;/p&gt;
+&lt;h2 id=&#34;digital-first-governments---links-resources--references&#34;&gt;Digital First Governments - Links, Resources &amp;amp; References&lt;/h2&gt;
+&lt;p&gt;Well for starters a digital asset, like your great great great great great great great great great great grandmothers chicken is something that conveys or holds value for you in some way shape or form. Just like that chicken had value in a free market, this video had intrinsic value all be it the rules of the trade have changed a bit, but ultimately are similar in that they both were / are worth something to someone. Let’s say the chickens value was that it fed your family and the value in this video is knowledge which in the knowledge economy may very well feed my family and yours too! (think about it).&lt;/p&gt;
+&lt;p&gt;A digital asset is anything that can be stored and transmitted electronically and that can be owned and thus, can have ownership and usage rights associated with it. Due to the diversity and variability of digital assets, ranging from ebooks and spreadsheets to billboard topping mp3s and Netflix originals.  Instead of being made up of elements from the periodic table and existing in time and space as we know it, in our homes, locked up in safes, parked in our garages, in our offices or tucked away with our financial advisors …  digital assets are binary in nature, that is they are digital and exist in programs and code and stored on hardware. Similar to the physical real-world assets we just discussed … digital assets convey value and they too (much like real-world-assets) are starting to get classified and organized categorized based on their functions (i.e. software, data, i.p., etc). But, unlike their physical or real-world predecessors, some categories of digital assets are starting to show some very unique characteristics that seem to defy the rules of asset valuation in real or physical-world.  In her book, &lt;a href=&#34;https://www.amazon.com/gp/product/B07SL9MHWQ/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B07SL9MHWQ&amp;amp;linkCode=as2&amp;amp;tag=netizen0c-20&amp;amp;linkId=b64dd6197fce9a28c9d948d6c73c56d9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Asset Valuation and Cyber Risk&lt;/a&gt;, Dr. Keyn Ruan suggests there are characteristics that separate digital assets from their physical world counterparts … namely …&lt;/p&gt;
+&lt;p&gt;Duplication does not increase digital value. (1 Porche vs 2 porches compared to 1 copy of my book vs 2 copies of my book).
+Digital value creation does not decrease but increases through usage. (the value of my Porsche goes down with the usages/miles the opposite is true of my blog or youtube channel)
+Digital value reproduction requires much lower (or zero) cost. (to get my second porches I gotta work hard vs. to get a copy of my book I can just cut and paste).
+So while our physical world assets are based on scarcity economics our digital assets seem to play by a different set of rules and seem to break the fundamental laws of supply and demand and follow exponential laws that seem limitlessness. For example …
+Once the owner of a digital asset has created intrinsic value that asset becomes more valuable the more it’s used. Take this video for example, as the create I place intrinsic value in it by creating it sensing confusion and an opportunity to help people better understand the opportunity … assuming you like, subscribe, and share this video you help increase it’s value.
+The network effect implies that there’s really no limit to how much this Intellectual property/content can be distributed and consumed.&lt;/p&gt;
+&lt;p&gt;And as for why you should care … you should care because just like there were problems and opportunities in our ancestors bartering model that led to countless innovations, empires, wars, feasts and famines over the past 2,000 years or so, we too have value exchange problems in the early 21st century which are about to become much more apparent as governments print currency and inflation becomes the name of the game across markets worldwide. And just like our ancestors did in the past, we too will attempt to solve these problems with new technology and ya - most likely create all kinds of new empires (and yes probably wars feast, famines) but since you’re here, I assume you’re interested in the empire-building aspect of all this&amp;hellip;  Yes, developing new ways of extracting value and wealth for new assets will create a massive opportunity for those who understand how it works and how to capitalize on it.  The total digital assets universe is growing with the number of different types of digital assets exponentially increasing due to the rising number of devices applications and use cases coming online every day to consume it (think smartphone, game consoles, PC’s,  smart TVs, Apps, VR headsets, tablets, and on and on).&lt;/p&gt;
+&lt;p&gt;Maybe you’re responsible for creating a digital asset solution for your organization or …
+Maybe you’re interested in the growing crypto market, hearing the term and want to learn more about the underlying technology …
+You have to start thinking about the content you’re putting online in terms of the value it creates for yourself and for others.&lt;/p&gt;
+&lt;p&gt;Digitized Assets vs. Native Digital Assets:
+Another distinguishing factor to consider as you start looking at digital assets is if the asset is digitized or digital native ….
+A digitized asset as an asset that exists in the real physical world but that has been replicated or digitized into an online version… one example may be a pair of Air Jordans or luxury home or even this pretty bouquet of flowers … all exist in the real world but all have been digitized and uploaded to a server to exist as a digitized asset perhaps for a real estate agency inventor or for a local florists eCommerce website. Consider, in contrast, a digital native asset that was born digital and exists online in digital format, for example, an ebook that only exists in an electronic version or a video game or even a made for NetFlix movie that only exists online.&lt;/p&gt;
+&lt;p&gt;Understanding some of these nuances helps you understand that rules are changing and that new forms of currency may need to be developed and adopted in order to better facilitate value storage and exchange going forward.&lt;/p&gt;
+&lt;p&gt;The scope of this brief and this channel really relates to a category of digital assets that can be tokenized using a cryptographic protocol, or so-called crypto assets and the mission of this channel will be to help raise awareness and excitement for this class of digital asset.&lt;/p&gt;
+&lt;p&gt;##Digital Assets as an Asset Class / Currency&lt;/p&gt;
+&lt;p&gt;On March 10, 1862, the first United States paper money was issued. The denominations at the time were $5, $10, and $20 and became legal currency just 7 days later on March 17, 1862. About 147 years later in 2009, the first cryptocurrency, bitcoin was introduced as open-source software functioning as a digital asset that provides a medium for exchange using cryptography to facilitate transactions, it was designed as a digital currency and to this day it functions as such. Cryptocurrencies are digital asset that provides a medium of decentralized exchange using cryptography to facilitate transactions. Rather than being backed by a central bank or a government, cryptocurrency is wholly separate from the larger monetary environment. Over the past decade, these currencies have grown in usage and utility as they exhibit advantages relative to conventional currencies. As the world of digital assets continues to evolve so does the desire and need to categorize different kinds of digital assets based on meaningful and reliable criteria and that process is becoming known as token taxonomy. There are currently three main types of token classifications -
+Cryptocurrency -  Bitcoin, Litecoin, etc … these tend to function as a form of digital money or cash.
+Utility Token - this type of digital asset completes functions.
+Security Tokens - represent ownership or shares of ownership similar to those found in the stock markets.&lt;/p&gt;
+&lt;p&gt;These classifications will most certainly expand in the future as tokenization appears to be growing in popularity worldwide.
+Recently, Bitcoin and Ether have emerged as the market leaders in the cryptocurrency market. Both utilize distributed ledger technology (DLT), a shared record of all transactions called a blockchain. Cryptos can be exchanged for other currencies, products, and services. Bitcoin digital asset designed to work as a medium of exchange wherein individual coin ownership records are stored in a digital ledger or computerized database using strong cryptography to secure transaction record entries, to control the creation of additional digital coin records, and to verify the transfer of coin ownership. It typically does not exist in physical form (like paper money) and is typically not issued by a central authority. They employ robust cryptography to secure financial transactions, control the creation of additional units, and verify the transfer of assets. Records of these transactions are known as blockchains. Each block in the chain contains a cryptographic hash of the previous block, a timestamp, and transaction data. Blockchains, by design, are resistant to data modification. As of August 19, 2018, there were more than 1,600 unique cryptocurrencies available online, and the number continues to grow. Generally speaking, a crypto asset is a digital asset that can be represented by a particular quantity of
+cryptographic tokens that someone holds of that asset. These tokens can be transferred between online accounts on a blockchain, and are often held in crypto wallets. As the demand for trading cryptocurrencies and other categories of digital assets grows, so will the opportunity for smart, forward-thinking entrepreneurs. Does any of this sound familiar to you? To me it sounds a lot like history repeating itself and just like our ancestors before us - we have no shortage of problems to solve, we’re working to improve our ability to exchange value in the digital / information age and success has a tendency of favoring those who work on solving them.&lt;/p&gt;
+&lt;p&gt;If you’re goal is to gain wealth with digital assest (namely crypto currencies) … you’re timing is pretty excellent&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Rise of Digital First Governments</title>
+      <link>https://berno.ml/post/digital-first-governments/</link>
+      <pubDate>Fri, 01 May 2020 13:20:00 +0000</pubDate>
+      <guid>https://berno.ml/post/digital-first-governments/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;📸&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Photographer&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Fan&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Jianhua&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.freepik.com/fanjianhua&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;reimagining-post-pandemic-government-as-a-digital-first-lean-startup&#34;&gt;Reimagining Post Pandemic Government As A Digital First, Lean Startup&lt;/h2&gt;
+&lt;p&gt;Around the world, COVID-19 has forced governments to move many of their services online well ahead of schedule. By allowing citizens to access expanded information and benefits via the web during the pandemic that would normally require a visit to your local townhall or dmv.  In doing so, it&amp;rsquo;s exposed a number of underlying issues, but it&amp;rsquo;s also highlighted corresponding opportunities along the way that some tech startups and technology service providers may want to pay attention to and work to provide products and services for. COVID-19 showed us that Governments can adopt a startup mentality and that there are in fact new and different ways that government work can get done and provide servies to it&amp;rsquo;s citizens that are counting on them.&lt;/p&gt;
+&lt;p&gt;Governments are in the business of providing service and the demand for excellent service is online going to increase as more and more services migrate online. Whether filing taxes, securing benefits or one of the countless other services they provide, all of us use Government services at some point in our lives. But not all services were ready for the kind of rapid digital transition brought about by COVID-19 and a lot of public servants expressed concerns about moving certain services online for fear of failure and the bad press that goes along with it, but COVID-19 has forced the issue and will make it hard to go back to the way things were once the pandemic is over. 
+So now what? How will the pandemic change government service delivery models for the citizens they serve? What barriers still exist and what are the opportunities for startups and independent tech contractors to help governments at ever level finish what COVID started? &lt;/p&gt;
+&lt;h3 id=&#34;establishing-digital-identities--getting-data-into-machine-readable-formats&#34;&gt;Establishing Digital Identities &amp;amp; Getting data into machine-readable formats&lt;/h3&gt;
+&lt;p&gt;Some ways the government can improve citizens&amp;rsquo; online experience &amp;hellip;
+💡 Streamline the onboarding process for citizens registering for benefits and services online. They already know my address, income, marital status, and hundreds of other dimensions, why not work harder to authentic citizens upfront and simply ask me to confirm things like address, date of birth, as opposed to making citizens re-type that data into clunky form scripts. Of course, privacy laws are in place for a reason but maybe sharing certain pre-authorized data points within the governments secure network that could significantly improve a government&amp;rsquo;s ability to deliver mission-critical services is worth discussing. &lt;/p&gt;
+&lt;p&gt;💡 Implement Digital Identify Platforms that replace outdated user authentication username and password models that exist today. Digital Identity infrastructure would be a great first step in helping citizen fast-track access to benefits especially in times of crisis like COVID while increasing securing far beyond the firewall and authentication measures in use today. &lt;/p&gt;
+&lt;p&gt;Is there an openness of citizens to allow governments to build this kind of infrastructure? Are citizens willing to allowing sharing of certain data dimensions to make the processes of getting services easier? If so, what changes to policy and legislation would be required? Blockchain Tech startups that can help governments build transparent digital-first workflows (like a Digital Identity Platform) that build trust while improving security and ensuring privacy will be in great demand. 
+Innovation most likely won&amp;rsquo;t come from within &amp;hellip; Governments seeking to use COVID-19 as a jump-off point for conducting more of its business online once the pandemic is over should consider looking at Startup business models for ways to iterate the introduction and adoption of new services and maybe even fund start-ups to do that work for them. Governments can ignite bold, innovative thinking by bringing startup founders into the ranks of government to help shift the mindset and foster a culture of relentless focus on customer needs and experience. The lean startup model could work for introducing high-tech government services as well as it did for Uber or AirB&amp;amp;B. This may require a mindset shift at all levels of government, but I believe that citizens will see iteration and a commitment to continuous improvement as a real positive and ultimately rally around forward-thinking local governments that apply startup best practices to rolling out new or improves services to citizens online.&lt;/p&gt;
+&lt;h2 id=&#34;digital-first-governments---links-resources--references&#34;&gt;Digital First Governments - Links, Resources &amp;amp; References&lt;/h2&gt;
+&lt;p&gt;This post was inspired in part by &lt;a href=&#34;https://thoughtleadership.rbc.com/rbc-disruptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RBC Disruptors&lt;/a&gt;. The orginal files can be found at &lt;a href=&#34;https://bit.ly/digital-first-govt-canada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/digital-first-govt-canada&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Would you like to follow influencers in the Digital First Government space? Grab this twitter list 👉 &lt;a href=&#34;https://bit.ly/chris-berno-crypto-feed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/chris-berno-crypto-feed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want to expand the discussion join the discord group on Digital First Governments here 👉 &lt;code&gt;Coming Soon&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./digital-first-governments.jpg&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Screen Strategies</title>
+      <link>https://berno.ml/project/second-screen-strategies/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/project/second-screen-strategies/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a hard sell but here&amp;rsquo;s the pitch anyway &amp;hellip; &amp;ldquo;We want you to invest in an application that will divert audience attention away from the big screen DURING the show you just spend a fortune to produce, market and distribute.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://berno.ml/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example title</title>
+      <link>https://berno.ml/cv/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/cv/</guid>
+      <description>&lt;p&gt;Hello&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://berno.ml/uploads/berno_TECHops_cv.pdf&#34;&gt;Download my CV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://berno.ml/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://berno.ml/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://berno.ml/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://berno.ml/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My page</title>
+      <link>https://berno.ml/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://berno.ml/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
